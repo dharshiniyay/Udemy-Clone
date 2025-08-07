@@ -10,7 +10,7 @@ Replicate the UI and layout of the Udemy homepage using semantic HTML and respon
 
 ## 🌐 Live Preview
 
-[Visit the website](https://www.udemy.com/)
+[Visit the website](https://dharshiniyay.github.io/Udemy-Clone/)
 
 
 ## 🛠️ Requirements & Features
